@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.pdb
