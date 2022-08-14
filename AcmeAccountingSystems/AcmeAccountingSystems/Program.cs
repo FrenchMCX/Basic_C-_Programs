@@ -2,7 +2,7 @@
 
 namespace AcmeAccountingSystems
 {
-    internal class Program
+    internal class Program 
     {
         static void Main()
         {
