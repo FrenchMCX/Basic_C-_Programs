@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\Package Express Quote Application\Package Express Quote Application\obj\Debug\Package Express Quote Application.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\Package Express Quote Application\Package Express Quote Application\obj\Debug\Package Express Quote Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\Package Express Quote Application\Package Express Quote Application\obj\Debug\Package Express Quote Application.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\Package Express Quote Application\Package Express Quote Application\bin\Debug\Package Express Quote Application.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Programs\Package Express Quote Application\Package Express Quote Application\bin\Debug\Package Express Quote Application.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\Package Express Quote Application\Package Express Quote Application\bin\Debug\Package Express Quote Application.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\Package Express Quote Application\Package Express Quote Application\obj\Debug\Package Express Quote Application.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\Package Express Quote Application\Package Express Quote Application\obj\Debug\Package Express Quote Application.pdb
