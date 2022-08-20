@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationAssignment_CalculateNumbers", "ConsoleApplicationAssignment_CalculateNumbers\ConsoleApplicationAssignment_CalculateNumbers.csproj", "{BD754C35-81FE-4FBE-9DB7-1445AB8B6C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD754C35-81FE-4FBE-9DB7-1445AB8B6C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD754C35-81FE-4FBE-9DB7-1445AB8B6C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD754C35-81FE-4FBE-9DB7-1445AB8B6C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD754C35-81FE-4FBE-9DB7-1445AB8B6C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E253F277-DD87-4D51-9CF1-08D98905A952}
+	EndGlobalSection
+EndGlobal
