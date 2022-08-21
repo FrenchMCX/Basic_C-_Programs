@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\While_DoWhile_Submission\While_DoWhile_Submission\obj\Debug\While_DoWhile_Submission.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\While_DoWhile_Submission\While_DoWhile_Submission\obj\Debug\While_DoWhile_Submission.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\While_DoWhile_Submission\While_DoWhile_Submission\obj\Debug\While_DoWhile_Submission.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\While_DoWhile_Submission\While_DoWhile_Submission\bin\Debug\While_DoWhile_Submission.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Programs\While_DoWhile_Submission\While_DoWhile_Submission\bin\Debug\While_DoWhile_Submission.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\While_DoWhile_Submission\While_DoWhile_Submission\bin\Debug\While_DoWhile_Submission.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\While_DoWhile_Submission\While_DoWhile_Submission\obj\Debug\While_DoWhile_Submission.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\While_DoWhile_Submission\While_DoWhile_Submission\obj\Debug\While_DoWhile_Submission.pdb
