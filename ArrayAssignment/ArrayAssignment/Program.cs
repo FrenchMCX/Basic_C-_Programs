@@ -28,6 +28,7 @@ namespace ArrayAssignment
             stringArray[3] = "String 4";
             stringArray[4] = "String 5";
 
+            Console.WriteLine("Insert a number 0 through 4: ");
             int input = int.Parse(Console.ReadLine());
             //if statement to limit correct inputs to 4
             if (input > 4)
@@ -39,6 +40,8 @@ namespace ArrayAssignment
                 Console.WriteLine("You picked array number: " + numArray[input]);
             }
 
+
+            Console.WriteLine("Insert a number 0 through 4: ");
             int inputString = Convert.ToInt32(Console.ReadLine());
             //if statement to limit correct inputs to 4
             if (inputString > 4)
@@ -58,6 +61,7 @@ namespace ArrayAssignment
             instrumentList.Add("Harmonica");
             instrumentList.Add("Cello");
 
+            Console.WriteLine("Insert a number 0 through 4: ");
             //convert list ReadLine string into int
             int inputList = Convert.ToInt32(Console.ReadLine());
             //if statement to limit correct inputs to 4
