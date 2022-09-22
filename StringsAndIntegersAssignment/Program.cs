@@ -11,11 +11,11 @@ namespace StringsAndIntegersAssignment
         static void Main(string[] args)
         {
             //create list
-            List<string> integers = new List<string>();
-            integers.Add("40");
-            integers.Add("32");
-            integers.Add("24");
-            integers.Add("12");
+            List<int> integers = new List<int>();
+            integers.Add(40);
+            integers.Add(32);
+            integers.Add(24);
+            integers.Add(12);
 
             //create try and catch
             try
@@ -35,7 +35,7 @@ namespace StringsAndIntegersAssignment
                 for (int i = 0; i < integers.Count; i++)
                 {
                     //convert integers string to int, divide int by input
-                    Console.WriteLine(Convert.ToInt32(integers[i]) / numberOne);
+                    Console.WriteLine(integers[i] / numberOne);
                 }
 
             }
