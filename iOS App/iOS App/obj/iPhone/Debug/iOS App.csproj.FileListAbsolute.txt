@@ -1,0 +1,20 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\bin\iPhone\Debug\iOS App.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\bin\iPhone\Debug\iOS App.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\optimized\
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\iOS App.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\iOS App.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\iOS App.csproj.CopyComplete
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\iOS App.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\iOS App\iOS App\obj\iPhone\Debug\iOS App.pdb
