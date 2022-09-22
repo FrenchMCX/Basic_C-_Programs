@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\bin\Debug\StringsAndIntegersAssignment.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\bin\Debug\StringsAndIntegersAssignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\bin\Debug\StringsAndIntegersAssignment.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\obj\Debug\StringsAndIntegersAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\obj\Debug\StringsAndIntegersAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\obj\Debug\StringsAndIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\obj\Debug\StringsAndIntegersAssignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\StringsAndIntegersAssignment\obj\Debug\StringsAndIntegersAssignment.pdb
