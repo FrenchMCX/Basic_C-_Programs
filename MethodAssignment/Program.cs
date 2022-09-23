@@ -10,25 +10,25 @@ namespace MethodAssignment
     {
         static void Main(string[] args)
         {
-            //Try and Catch used to prevent program from not working when nothing is entered for second input.
-            try
+            //Instantiate methods
+            Methods methods = new Methods();
+
+            //Ask for and receive inputs. Note to use zero if they desire to enter no number for second input.
+            Console.WriteLine("Insert up to 2 numbers to add with 7. (If you wish to only use 1 number please enter zero for the second.)");
+            int input1 = Convert.ToInt32(Console.ReadLine());
+
+            string input2 = Console.ReadLine();
+            if (input2 == "")
             {
-                //Instantiate methods
-                Methods methods = new Methods();
-
-                //Ask for and receive inputs. Note to use zero if they desire to enter no number for second input.
-                Console.WriteLine("Insert up to 2 numbers to add with 7. (If you wish to only use 1 number please enter zero for the second.)");
-                int input1 = Convert.ToInt32(Console.ReadLine());
-
-                int input2 = Convert.ToInt32(Console.ReadLine());
-
-                //Call methods
-                int result = methods.addSeven(input1, input2);
-
-                //Print results
+                int result = methods.addSeven(input1);
                 Console.WriteLine(result);
             }
-            catch (FormatException ex) { Console.WriteLine(ex.Message); }
+            else 
+            {
+                int result1 = methods.addSeven(input1, Convert.ToInt32(input2));
+                Console.WriteLine(result1);
+            }
+
             
 
             Console.ReadLine();
