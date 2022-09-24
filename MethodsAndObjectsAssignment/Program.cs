@@ -10,6 +10,13 @@ namespace MethodsAndObjectsAssignment
     {
         static void Main(string[] args)
         {
+            //Instantiate employee method
+            Employee employee = new Employee("Sample", "Student", 001);
+
+            //Call method
+            employee.SayName();
+
+            Console.ReadLine();
 
         }
     }
