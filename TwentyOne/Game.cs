@@ -12,7 +12,9 @@ namespace TwentyOne
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers() 
+        public abstract void Play();
+
+        public virtual void ListPlayers() 
         {
             Console.WriteLine(Players);
         }

@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
+C:\Users\Owner\Desktop\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
