@@ -8,7 +8,7 @@ namespace MethodsAndObjectsAssignment
 {
     internal class Person
     {
-        //Declare variables
+        //Declare properties
         public string firstName { get; set; }
         public string lastName { get; set; }
 
