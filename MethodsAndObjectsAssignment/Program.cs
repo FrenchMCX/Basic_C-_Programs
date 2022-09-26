@@ -11,7 +11,7 @@ namespace MethodsAndObjectsAssignment
         static void Main(string[] args)
         {
             //Instantiate employee method
-            Employee employee = new Employee("Sample", "Student", 001);
+            Employee employee = new Employee("Sample", "Student");
 
             //Call method
             employee.SayName();

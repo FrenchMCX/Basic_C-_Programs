@@ -11,14 +11,12 @@ namespace MethodsAndObjectsAssignment
     {
         //Declare properties
         int ID;
-        string firstName;
-        string lastName;
 
         //Constructor for Employee with inherited variables
-        public Employee(string firstName, string lastName, int ID)
+        public Employee(string fName, string lName)
         {
-            //Declare new variable
-            ID = 001;
+            firstName = fName;
+            lastName = lName;
         }
     }
 }
