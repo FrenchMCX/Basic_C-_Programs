@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.deps.json
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.json
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.dll
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.dll
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.genruntimeconfig.cache
