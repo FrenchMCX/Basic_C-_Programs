@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -37,4 +37,4 @@ namespace TwentyOne
 
     }
     }
-}
+
