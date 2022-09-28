@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\bin\Debug\netcoreapp3.1\LambdaFinal.exe
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\bin\Debug\netcoreapp3.1\LambdaFinal.deps.json
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\bin\Debug\netcoreapp3.1\LambdaFinal.runtimeconfig.json
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\bin\Debug\netcoreapp3.1\LambdaFinal.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\bin\Debug\netcoreapp3.1\LambdaFinal.dll
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\bin\Debug\netcoreapp3.1\LambdaFinal.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\obj\Debug\netcoreapp3.1\LambdaFinal.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\obj\Debug\netcoreapp3.1\LambdaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\obj\Debug\netcoreapp3.1\LambdaFinal.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\obj\Debug\netcoreapp3.1\LambdaFinal.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\obj\Debug\netcoreapp3.1\LambdaFinal.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\obj\Debug\netcoreapp3.1\LambdaFinal.dll
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\obj\Debug\netcoreapp3.1\LambdaFinal.pdb
+C:\Users\Owner\Desktop\Basic_C#_Programs\LambdaFinal\LambdaFinal\obj\Debug\netcoreapp3.1\LambdaFinal.genruntimeconfig.cache

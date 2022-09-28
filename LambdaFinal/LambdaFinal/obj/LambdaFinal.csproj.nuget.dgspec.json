@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\Desktop\\Basic_C#_Programs\\Lambda\\Lambda.csproj": {}
+    "C:\\Users\\Owner\\Desktop\\Basic_C#_Programs\\LambdaFinal\\LambdaFinal\\LambdaFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\Desktop\\Basic_C#_Programs\\Lambda\\Lambda.csproj": {
+    "C:\\Users\\Owner\\Desktop\\Basic_C#_Programs\\LambdaFinal\\LambdaFinal\\LambdaFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\Basic_C#_Programs\\Lambda\\Lambda.csproj",
-        "projectName": "Lambda",
-        "projectPath": "C:\\Users\\Owner\\Desktop\\Basic_C#_Programs\\Lambda\\Lambda.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\Basic_C#_Programs\\LambdaFinal\\LambdaFinal\\LambdaFinal.csproj",
+        "projectName": "LambdaFinal",
+        "projectPath": "C:\\Users\\Owner\\Desktop\\Basic_C#_Programs\\LambdaFinal\\LambdaFinal\\LambdaFinal.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Desktop\\Basic_C#_Programs\\Lambda\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\Desktop\\Basic_C#_Programs\\LambdaFinal\\LambdaFinal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
