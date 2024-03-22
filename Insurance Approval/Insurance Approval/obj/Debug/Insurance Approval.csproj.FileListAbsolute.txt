@@ -2,7 +2,6 @@ C:\Users\Owner\Desktop\Basic_C#_Programs\Insurance Approval\Insurance Approval\b
 C:\Users\Owner\Desktop\Basic_C#_Programs\Insurance Approval\Insurance Approval\bin\Debug\Insurance Approval.exe
 C:\Users\Owner\Desktop\Basic_C#_Programs\Insurance Approval\Insurance Approval\bin\Debug\Insurance Approval.pdb
 C:\Users\Owner\Desktop\Basic_C#_Programs\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.csproj.AssemblyReference.cache
-C:\Users\Owner\Desktop\Basic_C#_Programs\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.csproj.SuggestedBindingRedirects.cache
 C:\Users\Owner\Desktop\Basic_C#_Programs\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Desktop\Basic_C#_Programs\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.exe
 C:\Users\Owner\Desktop\Basic_C#_Programs\Insurance Approval\Insurance Approval\obj\Debug\Insurance Approval.pdb
